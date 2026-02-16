@@ -3,6 +3,7 @@
 # PRÁCTICA 2ª EVALUACIÓN - INTEGRACIÓN BD CON PYTHON
 ## Gestión de Clientes con MySQL y Python
 
+**Elaborado por:** Ignacio Diaz Del Horno y Marcos Ramos Martinez
 **Asignatura:** Introducción a la Programación y Estructuras de Datos  
 **Ciclo:** Administración de Sistemas Informáticos en Red (ASIR)  
 **Fecha de entrega:** 18 febrero 2026  
